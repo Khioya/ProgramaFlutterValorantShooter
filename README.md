@@ -37,7 +37,7 @@ Puntos extra:
 1. Mientras más parecidos sean los tiempos de ejecución de los sonidos, mejor.
   * Que los sonidos de kill no se ejecuten al mismo tiempo si los enemigos mueren muy rápido. Lo ideal seria que se detuviera el sonido anterior y se reproduzca el nuevo (Como en el juego).
   * Como en el juego, el diálogo de ACE del agente se super pone sobre el sonido del ACE y no inicia al mismo momento que se hace la kill, se reproduce unos segundos después.
-2.- Mostrar el ícono de muertes como en el juego (El de la calavera).
+2.- Mostrar el ícono de muertes como en el juego (Se encuentran en archivos y ya sé que no son como en el juego, pero es lo que hay).
 
 ## Archivos anexados
 
