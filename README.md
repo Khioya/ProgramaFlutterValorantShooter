@@ -40,3 +40,12 @@ En los "assets" de este repositorio, se encuentran:
 * Íconos de agentes enemigos (A los que matarán dandoles clic).
 * Diálogos de ACE de cada agente (Si falta alguno, omitan dicho agente para que no pierdan tiempo buscando).
 * Sonidos de muerte.
+
+## ADVERTENCIA
+
+NO suban su proyecto a este repositorio. No hagan push, ni commits, ni nada por el estilo. Clonen este repositorio SOLO para que tengan los archivos anexados mencionados anteriormente
+
+* Clonar repositorio
+   ```sh
+   git clone https://github.com/gloperena/DesafioPlebes.git
+   ```
