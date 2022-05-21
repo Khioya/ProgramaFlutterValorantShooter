@@ -35,7 +35,7 @@ Se evaluará:
 
 ## Archivos anexados
 
-En los "assets" de este repositorio, se encuentran:
+En los "Archivos" de este repositorio, se encuentran:
 
 * Íconos de agentes enemigos (A los que matarán dandoles clic).
 * Diálogos de ACE de cada agente (Si falta alguno, omitan dicho agente para que no pierdan tiempo buscando).
