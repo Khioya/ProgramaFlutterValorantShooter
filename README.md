@@ -24,7 +24,7 @@ El desafio consistirá en una aplicación (Ya sea móvil o web) de un mini juego
 
 3. Al hacer ACE se tiene que mostrar en pantalla el título "ACE".
 
-4. Al matar a todos los enemigos, se tendrá que escuchar el diálogo del agente que haya seleccionado.
+4. Al matar a todos los enemigos, se tendrá que escuchar el diálogo de ACE del agente que haya seleccionado.
 
 5. Al finalizar todo esto, se habilitará un botón de "Volver a jugar" (El cual le permitirá al usuario jugar con el mismo agente) y otro botón de "Regresar al menú" donde lo regresará a la selección de agente.
 
@@ -48,6 +48,7 @@ En los "Archivos" de este repositorio, se encuentran:
 * Íconos de agentes enemigos (A los que matarán dandoles clic).
 * Diálogos de ACE de cada agente (Si falta alguno, omitan dicho agente para que no pierdan tiempo buscando).
 * Sonidos de muerte.
+* Íconos de kill
 
 ## ADVERTENCIA
 
