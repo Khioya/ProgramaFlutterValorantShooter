@@ -54,7 +54,7 @@ En los "Archivos" de este repositorio, se encuentran:
 
 NO suban su proyecto a este repositorio. No hagan push, ni commits, ni nada por el estilo. Clonen este repositorio SOLO para que tengan los archivos anexados mencionados anteriormente.
 
-Antes de las 11pm de mañana, tienen que crear su propio repositorio y hacer el push. Con el fin de saber que lo subieron antes de la hora límite.
+Antes de las 11am del día domingo 22, tienen que crear su propio repositorio y hacer el push. Con el fin de saber que lo subieron antes de la hora límite.
 
 * Clonar repositorio
    ```sh
