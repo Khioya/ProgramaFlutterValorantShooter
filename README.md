@@ -22,7 +22,7 @@ El desafio consistirá en una aplicación (Ya sea móvil o web) de un mini juego
 
 2. Luego, al darle clic a un botón "Jugar", se le abrirá una interfaz (Nueva página o en la misma) donde estarán los íconos de 5 agentes. Al darle clic a alguno será como "matarlo", por lo que ese enemigo desaparecerá y sonará el sonido de kill. Cada que vaya haciendo una kill, el sonido cambiará dependiendo de cuantas kills lleve (Como en el juego) Así hasta hacer el ACE y que no hayan enemigos.
 
-3. Al hacer cada kill, se mostrará el ícono de muertes como en el juego (El de la calavera). De igual forma, al hacer ACE se tiene que mostrar en pantalla.
+3. Al hacer ACE se tiene que mostrar en pantalla el título "ACE".
 
 4. Al matar a todos los enemigos, se tendrá que escuchar el diálogo del agente que haya seleccionado.
 
@@ -32,6 +32,12 @@ Se evaluará:
 * Estética visual (Diseño).
 * Explicación de código.
 * Limpieza y orden en el código.
+
+Puntos extra:
+1. Mientras más parecidos sean los tiempos de ejecución de los sonidos, mejor.
+  * Que los sonidos de kill no se ejecuten al mismo tiempo si los enemigos mueren muy rápido. Lo ideal seria que se detuviera el sonido anterior y se reproduzca el nuevo (Como en el juego).
+  * Como en el juego, el diálogo de ACE del agente se super pone sobre el sonido del ACE y no inicia al mismo momento que se hace la kill, se reproduce unos segundos después.
+2.- Mostrar el ícono de muertes como en el juego (El de la calavera).
 
 ## Archivos anexados
 
